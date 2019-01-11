@@ -1,0 +1,68 @@
+.title{
+  float: left;
+  text-align: center;
+}
+
+.list-top{
+  float: right;
+  margin: 20px 15px 0px 0px;
+}
+
+.panel-body {
+  padding: 15px;
+  background-color: #EBEBEB;
+}
+
+.panel {
+  padding-top: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+#notes {
+  float: left;
+  height: 150px;
+  width: 120px;
+  padding: 0px 10px 0px 0px;
+}
+
+.notes{
+  padding: 0px 0px 0px 10px;
+}
+
+#paper{
+  padding: 0px 0px 0px 10px;
+}
+
+#news1{
+  float: right;
+  height: 150px;
+  width: 120px;
+}
+
+#didyouknow {
+  float: right;
+  height: 150px;
+  width: 120px;
+}
+
+#railway {
+  float: right;
+  height: 150px;
+  width: 150px;
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  color: black;
+}
+
+body {
+  font-family: sans-serif;
+}
